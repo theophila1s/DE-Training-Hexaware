@@ -1,0 +1,4 @@
+Spark SQL was first released in Spark 1.0 (May, 2014).
+Initial committed by Michael Armbrust & Reynold Xin from Databricks.
+Spark introduces a programming module for structured data processing called
+Spark SQL.
